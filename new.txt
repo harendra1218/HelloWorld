@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 20C4-6767
+
+ Directory of C:\Users\harENDra\Documents\JAVAProj
+
+03/07/2019  09:48 PM    <DIR>          .
+03/07/2019  09:48 PM    <DIR>          ..
+03/07/2019  09:44 PM               677 Hello.class
+03/06/2019  10:42 PM               159 Hello.java
+03/07/2019  09:48 PM                 0 new.txt
+03/06/2019  11:19 PM               464 readme.txt
+               4 File(s)          1,300 bytes
+               2 Dir(s)  14,155,145,216 bytes free
